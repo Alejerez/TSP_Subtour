@@ -1,6 +1,7 @@
-# TSP_Subtour
-Implementación en AMPL de modelo General de TSP con restricción de subtour
+# TSP_Subtour Example
+
+AMPL implementation of general TSP problem with subtour restrictions
 
 --------------------------------------------------------------------------
 
-Modelo en AMPL del para el problema de ruteo asociado el modelo de TSP básico, cuenta con restricciones y conjuntos que generan de manera automática todas las restricciones de subtour necesarias.
+Errors or comments to a.jerez.o@gmail.com
